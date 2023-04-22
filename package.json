@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^2.2.2",
-    "astro": "^2.2.1"
+    "@astrojs/solid-js": "^2.1.0",
+    "astro": "^2.2.1",
+    "solid-js": "^1.4.3"
   }
 }
